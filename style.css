@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Add this at the top for Google Fonts (Inter or Nunito recommended) */
-/* In your HTML <head>:
-<link href="https://fonts.googleapis.com/css?family=Inter:400,600,700&display=swap" rel="stylesheet">
-*/
 
 body {
     background: #f6f8fb;
